@@ -1,0 +1,10 @@
+What Gets Installed:
+ChromaDB: Vector database for storing embeddings
+
+Sentence Transformers: For creating text embeddings
+
+OpenAI: LLM integration
+
+Tiktoken: Token counting for smart chunking
+
+✅ Rank-BM25: Keyword
